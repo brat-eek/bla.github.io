@@ -54,6 +54,10 @@ git &bull; DBs (MySQL, PostgresSQL) &bull; Virtualization (Docker and VMware)
 #### <i class="fa fa-building-o" aria-hidden="true"></i>[Amazon](https://www.amazon.in/){:target="_blank"} as **Data Scientist** 
 <small> <i class="fa fa-calendar" aria-hidden="true"></i> Jan, 2020 - Present </small> 
 
+{% include image.html
+            img="/img/amz.png"
+            caption="IT'S STILL DAY 1" %}
+
 <span class="badge">Routing and Maps Intelligence</span> 
 <span class="badge">Python and Java</span> 
 <span class="badge">A bunch of algorithms...</span> 
@@ -64,6 +68,10 @@ I joined Amazon in Jan 2020. I work on Last Mile Sciences and Routing Maps Intel
 #### <i class="fa fa-building-o" aria-hidden="true"></i>[Flipkart](https://www.flipkart.com/){:target="_blank"} as **Decision Scientist** 
 <small> <i class="fa fa-calendar" aria-hidden="true"></i> May, 2018 - Jan 2020 </small> 
 
+{% include image.html
+            img="/img/fk.png"
+            caption="Ab Harr Wish Hogi Poori" %}
+            
 <span class="badge">Data Science</span> 
 <span class="badge">Python</span> 
 <span class="badge">Reinforcement Learning</span> 
@@ -73,7 +81,9 @@ I joined Flipkart, Banglore in May 2018. Worked on Reinforcement Learning for Dy
 
 #### <i class="fa fa-building-o" aria-hidden="true"></i> [Sprinklr](https://www.sprinklr.com/){:target="_blank"} as **Deep learning Intern** 
 <small> <i class="fa fa-calendar" aria-hidden="true"></i> May, 2017 - July, 2017 </small>
-
+{% include image.html
+            img="/img/sklr.png"
+            caption="Sprinklr" %}
 <span class="badge">Object Detection and Classification</span> 
 <span class="badge">Py-Faster-RCNN</span> 
 <span class="badge">SSD (Single-Shot-Detection)</span> <span class="badge">Keras</span> 
@@ -81,7 +91,9 @@ I joined Flipkart, Banglore in May 2018. Worked on Reinforcement Learning for Dy
 
 #### <i class="fa fa-building-o" aria-hidden="true"></i> [Netra.io](http://www.netra.io/){:target="_blank"} as **Machine Learning Intern** 
 <small> <i class="fa fa-calendar" aria-hidden="true"></i> Feb, 2016 - Aug, 2016 </small> 
-
+{% include image.html
+            img="/img/netra.png"
+            caption="Netra.io" %}
 <span class="badge">AWS</span> 
 <span class="badge">Machine Learning</span> 
 <span class="badge">Caffe</span> 
