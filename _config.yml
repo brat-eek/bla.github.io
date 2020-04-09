@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Anshul Singhal
+title: Prateek Singhi
 
 # Short description of your site
-description: Tech/Travel/Trek
+description: Personal Website
 
 # --- Navigation bar options --- #
 
@@ -30,6 +30,7 @@ navbar-links:
     - कविताएँ: "कविताएँ"
   About Me: "about"
   Tags: "tags"
+  CoolStuff: "coolstuff"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -65,7 +66,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Anshul Singhal
+  name: Prateek Singhi
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -73,17 +74,17 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "sganshul24@gmail.com"
-  facebook: sganshul
-  github: saganshul
-  twitter: sganshul24
+  email: "prateek1732s@gmail.com"
+  facebook: prateek.singhi.5
+  github: brat-eek
+#   twitter: sganshul24
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: anshul-singhal-791002ba
+  linkedin: ps1732
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: sganshul
+#   instagram: sganshul
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -93,9 +94,9 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+#   twitter: true
   facebook: true
-  google: false
+#   google: false
   linkedin: true
 
 # How to display the link to the website in the footer
@@ -128,7 +129,7 @@ google_analytics: "UA-111014513-1"
 #disqus: "sganshul"
 
 # To use Facebook Comments, fill in a Facebook App ID
-fb_comment_id: "269226060362232"
+# fb_comment_id: "269226060362232"
 
 # --- Misc --- #
 
