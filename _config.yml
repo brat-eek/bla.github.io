@@ -25,7 +25,6 @@ description: Personal Website
 navbar-links:
   Blog:
     - Travel: "travel"
-    - Tech: "tech"
     - Treks: "treks"
     - कविताएँ: "कविताएँ"
     - CoolStuff: "coolstuff"
@@ -35,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/ps_nyc.png"
+avatar: "/img/ps_nyc.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
