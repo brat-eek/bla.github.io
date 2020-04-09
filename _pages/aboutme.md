@@ -1,6 +1,6 @@
 --- 
 title: About Me 
-image: /img/ps_nyc.png 
+image: /img/insta.jpg 
 subtitle: Why you'd want to go on a date with me!
 permalink: "/aboutme/" 
 --- 
