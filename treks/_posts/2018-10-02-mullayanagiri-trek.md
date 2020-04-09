@@ -2,7 +2,7 @@
 layout: trek-post
 title: Mullayangiri Trek - A Trek to the head of Karnataka
 categories: trek
-image: /img/posts/2018-10-02-mullayanagiri-trek/title.jpg
+image: /img/insta.jpg
 share-img: /img/posts/2018-10-02-mullayanagiri-trek/group.jpg
 meta-description: Mullayanagiri is a part of the Baba Budangiri range located in Chikamagaluru (District). It is at 1,930 meters (6,330 ft) from  sea level. It is known as the highest peak in the Karnataka. Let's move on to some details.
 difficulty: Easy
