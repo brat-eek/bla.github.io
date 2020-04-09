@@ -25,8 +25,8 @@ description: Personal Website
 navbar-links:
   Blog:
     - Travel: "travel"
-    - Treks: "treks"
-    - कविताएँ: "कविताएँ"
+#     - Treks: "treks"
+#     - कविताएँ: "कविताएँ"
     - CoolStuff: "coolstuff"
   About Me: "aboutme"
   Tags: "tags"
