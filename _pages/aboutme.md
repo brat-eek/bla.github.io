@@ -102,3 +102,6 @@ I joined Flipkart, Banglore in May 2018. Worked on Reinforcement Learning for Dy
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> [IIIT Hyderabad](https://www.iiit.ac.in/){:target="_blank"}.
 Education I completed my B.Tech in E.C.E and Hons. Machine Learning and Computer Vision from [IIIT Hyderabad](https://www.iiit.ac.in/){:target="_blank"}.
+{% include image.html
+            img="/img/iiit.png"
+            caption="IIIT Hyderabad" %}
