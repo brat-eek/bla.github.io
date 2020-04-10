@@ -84,10 +84,10 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#   instagram: sganshul
-#  youtube: user/deanat78
+  instagram: prateek.singhi.5
+  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +918639326347
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -98,6 +98,7 @@ share-links-active:
   facebook: true
 #   google: false
   linkedin: true
+  instagram: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
