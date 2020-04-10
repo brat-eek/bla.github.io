@@ -26,9 +26,11 @@ navbar-links:
   Blog:
     - Travel: "travel"
 #     - Treks: "treks"
-    - कविताएँ: "कविताएँ"
+#     - कविताएँ: "कविताएँ"
     - CoolStuff: "coolstuff"
   About Me: "aboutme"
+  DOCS:
+    - CV: "cv/PrateekSinghi_resume.pdf"
   Tags: "tags"
   
 
