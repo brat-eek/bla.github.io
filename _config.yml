@@ -75,10 +75,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+#   rss: true
+  telephone: +918639326347
   email: "prateek1732s@gmail.com"
   facebook: prateek.singhi.5
-  github: brat-eek
+#   github: brat-eek
 #   twitter: sganshul24
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -89,7 +90,6 @@ social-network-links:
   instagram: prateek.singhi.5
   youtube: channel/UCjm2HG9NOmWtkokknT4BC-g
 #  spotify: yourname
-  telephone: +918639326347
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
